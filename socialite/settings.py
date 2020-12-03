@@ -26,7 +26,7 @@ SECRET_KEY = 'gw17hy3u@6@8j+0x3egjt$^z9wdyv%dvnn598oup(vd085h1_j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['insta-copy-by-azad.herokuapp.com']
+ALLOWED_HOSTS = ['insta-copy-byazad.herokuapp.com']
 
 
 # Application definition
